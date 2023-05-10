@@ -1,0 +1,3 @@
+﻿Database,Run_Time_ms,Throughput_ops/sec,Ave_Latency_Cleanup_us,Min_Latency_Cleanup_us,Max_Latency_Cleanup_us,Ave_Latency_Insert_us,Min_Latency_Insert_us,Max_Latency_Insert_us
+MongoDB,19091,2619,3135,3134,3135,350,72,112383
+MySQL,1012612,49,4614,4612,4615,20206,9512,483583
